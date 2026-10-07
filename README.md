@@ -30,7 +30,7 @@ I turn data into practical insights and intelligent systems—from predictive ma
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/NoSQL-Database%20Concepts-5C4EE5?style=flat-square" alt="NoSQL database concepts" />
+  <img src="https://img.shields.io/badge/NoSQL-5C4EE5?style=flat-square&logoColor=white" alt="NoSQL" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
 </p>
