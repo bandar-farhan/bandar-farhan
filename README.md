@@ -50,6 +50,7 @@ I turn data into practical insights and intelligent systems—from predictive ma
 
 <p>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Altair%20AI%20Studio-Formerly%20RapidMiner-6C2DC7?style=flat-square" alt="Altair AI Studio, formerly RapidMiner Studio" />
 </p>
 
 ## Featured projects
