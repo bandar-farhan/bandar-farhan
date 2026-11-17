@@ -60,6 +60,7 @@ I turn data into practical insights and intelligent systems—from predictive ma
 | [Aircraft Engine RUL Prediction](https://github.com/bandar-farhan/aircraft-engine-rul-prediction) | Predicts the remaining useful life of turbofan engines using NASA C-MAPSS data | BiLSTM, GRU + Attention, XGBoost, ensemble modeling, interactive dashboard |
 | [Video Game Success Prediction](https://github.com/bandar-farhan/video-game-success-prediction) | Classifies whether a game is likely to become commercially successful | Logistic Regression, Random Forest, SVM, PCA, model comparison |
 | [Sprout & Crumb](https://github.com/bandar-farhan/sprout-and-crumb) | Portable bilingual vegan bakery preorder website | Arabic/English, RTL/LTR, SQLite, cart, order management |
+| [Planner Analytics Dashboard](https://github.com/bandar-farhan/planner-analytics-dashboard) | Interactive task and project monitoring dashboards using Microsoft Planner | Power BI, Dataverse, Power Automate, DAX, automated synchronization |
 
 ## What I bring to a project
 
