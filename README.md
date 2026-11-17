@@ -1,6 +1,6 @@
 # Hi, I'm Bandar Farhan 👋
 
-### Data Science Graduate | AI Engineering | Machine Learning | Business Intelligence
+### Data Scientist | AI Engineer | Machine Learning Engineer | Business Intelligence Analyst
 
 I build data-driven solutions and intelligent systems, combining machine learning, business intelligence, AI agents, and workflow automation to solve practical problems.
 
