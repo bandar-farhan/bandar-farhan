@@ -72,6 +72,7 @@ I build data-driven solutions and intelligent systems, combining machine learnin
 | Project | What it does | Highlights |
 |---|---|---|
 | [Multi-Agent AI Automation](https://github.com/bandar-farhan/multi-agent-ai-automation) | Multi-agent automation platform for customer support, sales, and booking workflows | n8n, RAG, AI orchestration, REST APIs, workflow automation |
+| [CV Lite — AI Resume Screening Dashboard](https://github.com/bandar-farhan/ai-resume-screening-dashboard) | AI-assisted resume processing, candidate management, and recruitment analytics | Python, FastAPI, OCR, LLM APIs, SQLite, JavaScript |
 | [Planner Analytics Dashboard](https://github.com/bandar-farhan/planner-analytics-dashboard) | Interactive dashboards for monitoring Microsoft Planner tasks and project performance | Power BI, Dataverse, Power Automate, DAX, automated synchronization |
 | [Aircraft Engine RUL Prediction](https://github.com/bandar-farhan/aircraft-engine-rul-prediction) | Predicts the remaining useful life of turbofan engines using NASA C-MAPSS data | BiLSTM, GRU + Attention, XGBoost, ensemble modeling, interactive dashboard |
 | [Video Game Success Prediction](https://github.com/bandar-farhan/video-game-success-prediction) | Predicts whether a video game is likely to achieve commercial success | Logistic Regression, Random Forest, SVM, PCA, model comparison |
